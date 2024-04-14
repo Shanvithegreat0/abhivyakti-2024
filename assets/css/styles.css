@@ -247,7 +247,7 @@ input {
 
   .home__container .home__data-subtitle {
     font-size: 20px; /* Corrected font size for smaller screens */
-    margin-top: -50px; /* Adjusted margin for smaller screens */
+    margin-top: 20px; /* Adjusted margin for smaller screens */
   }
 
   .home__container .home__data-title {
