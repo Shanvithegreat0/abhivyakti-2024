@@ -206,7 +206,7 @@ input {
 }
 
 .nav__logo, .nav__toggle {
-  color: rgb(245, 245, 245);
+  color: black;
 }
 
 .nav__logo {
