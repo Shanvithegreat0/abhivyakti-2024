@@ -1079,6 +1079,8 @@ input {
   .nav{
     color:blue;
   }
+  .button {
+    text-align: center;
 }
 .homepage{
   width: 100%;
