@@ -246,11 +246,13 @@ input {
   }
 
   .home__container .home__data-subtitle {
+      text-align: center;
     font-size: 20px; /* Corrected font size for smaller screens */
     margin-top: 20px; /* Adjusted margin for smaller screens */
   }
 
   .home__container .home__data-title {
+      text-align:center;
     font-size: 50px; /* Corrected font size for smaller screens */
     margin-top: 20px; /* Adjusted margin for smaller screens */
   }
